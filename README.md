@@ -1,5 +1,5 @@
 # CrescendoAttacker
-Based on the [paper](https://arxiv.org/abs/2404.01833) and [research](https://crescendo-the-multiturn-jailbreak.github.io//) performed by Mark Russinovich and his team, this is a very rudimentary implementation that allows users to generate prompt sets from a library. That prompt set can then be used by crescendoattacker.py to test against models specified in the code. The code is currently set to target OpenAI's GPT 3.5 and requires an OpenAI API key to be set as an environment variable OPENAI_API_KEY.
+Based on the [paper](https://arxiv.org/abs/2404.01833) and [research](https://crescendo-the-multiturn-jailbreak.github.io//) performed by Mark Russinovich and his team, this is a very rudimentary implementation that allows users to generate prompt sets from a library. That prompt set can then be used by CrescendoAttacker.py to test against models specified in the code. The code is currently set to target OpenAI's GPT 3.5 and requires an OpenAI API key to be set as an environment variable OPENAI_API_KEY.
 
 # How-To
 1. Run PromptGenerator.py and wait for the crescendo_prompts.json file to be generated
