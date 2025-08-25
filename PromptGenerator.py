@@ -372,6 +372,9 @@ for pattern_name, pattern_data in patterns.items():
                                 "pattern": pattern_name,
                                 "target_category": target_category,
                                 "target": target,
+                                "opener": opener,
+                                "escalation": escalation,
+                                "intensifier": intensifier,
                                 "crescendo_sequence": [
                                     f"{opener} {target}",
                                     f"{escalation} {target}", 
