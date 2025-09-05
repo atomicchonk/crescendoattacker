@@ -1,5 +1,6 @@
 # CrescendoAttacker
-<img width="512" height="512" alt="dce0d188-c231-4a3a-9b25-81e908950634" class="centered-image" src="https://github.com/user-attachments/assets/be30e128-1d6f-4ad8-beaf-459dc3282435" />
+![122436F2-40F1-4762-AA95-ECA4A4B6E07D_1_102_o](https://github.com/user-attachments/assets/da7fdd0c-d458-49c7-b0f7-37a040d57e0b)
+
 
 # Crescendo Safety Evaluation Framework
 
