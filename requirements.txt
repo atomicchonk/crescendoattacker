@@ -1,5 +1,14 @@
+# Required
 openai>=1.43.0,<2
 tenacity>=8.2.3,<9
 colorama>=0.4.6,<1
 python-dotenv>=1.0.1,<2
 numpy>=1.26.0,<3
+
+# Optional providers (install only what you use)
+anthropic>=0.34.0  # for Claude
+google-generativeai>=0.7.0  # for Gemini
+requests>=2.32.0  # for Ollama/local HTTP
+transformers>=4.43.0
+accelerate>=0.33.0
+torch>=2.3.0      # pick CPU or CUDA build as appropriate
