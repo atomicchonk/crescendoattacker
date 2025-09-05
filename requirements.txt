@@ -1,2 +1,5 @@
-openai>=1.0.0
-numpy>=1.21.0
+openai>=1.43.0,<2
+tenacity>=8.2.3,<9
+colorama>=0.4.6,<1
+python-dotenv>=1.0.1,<2
+numpy>=1.26.0,<3
